@@ -1,7 +1,7 @@
 const logotext = "R I D H O";
 const meta = {
   title: "Ridho Akbarsyah Ramadhan",
-  description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+  description: "I’m Ridho Akbarsyah Ramadhan _ Frontend Developer, currently working in Central Java, Indonesia",
 };
 
 const introdata = {
@@ -10,8 +10,8 @@ const introdata = {
     first: "I'm Frontend Developer",
     second: "I'm Learn React and Next",
   },
-  description: "Saya bekerja dan tinggal di Indonesia",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  description: "Currently lives and working in Central Java, Indonesia",
+  your_img_url: "https://images.unsplash.com/photo-1599837487527-e009248aa71b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
 };
 
 const dataabout = {
@@ -20,29 +20,19 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "Frontend Developer",
+    where: "Purwokerto, Central Java - Indonesia",
+    date: "2023",
   },
 ];
 
 const skills = [
   {
-    name: "Python",
+    name: "HTML",
     value: 90,
   },
   {
-    name: "Djano",
+    name: "CSS",
     value: 85,
   },
   {
@@ -51,11 +41,11 @@ const skills = [
   },
   {
     name: "React",
-    value: 60,
+    value: 50,
   },
   {
-    name: "Jquery",
-    value: 85,
+    name: "Next",
+    value: 50,
   },
 ];
 
@@ -139,9 +129,9 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+  YOUR_EMAIL: "ridho.ramadhan.tsgitdev.com",
+  YOUR_FONE: "(+62)858 7619 4464",
+  description: "Feel free ask to me. Thanks❤️",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
