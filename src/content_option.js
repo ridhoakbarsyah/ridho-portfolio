@@ -1,29 +1,35 @@
-const logotext = "R I D H O - P A G E";
+const logotext = "R I D H O - P A G E S";
 const meta = {
-  title: "Ridho Akbarsyah Ramadhan",
-  description: "I’m Ridho Akbarsyah Ramadhan _ Frontend Developer, currently working in Central Java, Indonesia",
+  title: "Ridho Akbarsyah",
+  description: "I’m Ridho Akbarsyah Ramadhan",
 };
 
 const introdata = {
-  title: "I'm Ridho Akbarsyah",
+  title: "I'm Ridho Akbarsyah Ramadhan",
   animated: {
     first: "I'm Frontend Developer",
-    second: "I'm Learn React and Next",
+    second: "Lives in Central Java, Indonesia",
   },
-  description: "Currently lives and working in Central Java, Indonesia",
+  description: "Currently working in Central Java, Indonesia",
   your_img_url: "https://images.unsplash.com/photo-1599837487527-e009248aa71b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
 };
 
 const dataabout = {
   title: "About my self",
-  aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+  aboutme:
+    "A motivated person to learn something new and face new challenges.Graduated with a Bachelor's degree in Computer, Department of Software Engineering, Telkom Purwokerto Institute of Technology with a fairly good GPA. Have good knowledge about web development, mobile development and UI/UX Designer. Has joined the Software Engineering Student Association organization and participated in competitions at institutional and national levels. Furthermore, I have also developed my leadership and communication skills through my experience in several skills.",
 };
 
 const worktimeline = [
   {
     jobtitle: "Frontend Developer",
     where: "Purwokerto, Central Java - Indonesia",
-    date: "2023",
+    date: "January 2023 - Present",
+  },
+  {
+    jobtitle: "Frontend Developer Intern",
+    where: "Purwokerto, Central Java - Indonesia",
+    date: "July 2023 - September 2023",
   },
 ];
 
@@ -42,74 +48,33 @@ const skills = [
   },
   {
     name: "React",
-    value: 50,
+    value: 70,
   },
   {
     name: "Next",
-    value: 50,
+    value: 70,
   },
 ];
 
-// const services = [
-//   {
-//     title: "UI & UX Design",
-//     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-//   },
-//   {
-//     title: "Mobile Apps",
-//     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-//   },
-//   {
-//     title: "Wordpress Design",
-//     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-//   },
-// ];
-
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "https://ifoxsoft.com/wp-content/uploads/2022/09/Logo-Satpol-PP-Vector-IfoxSoft-1024x768.webp",
+    description: "SISAPPRA SATPOL PP DKI JAKARTA",
+    link: "https://sisappra-satpolpp.jakarta.go.id/v1/dki/sisappra/#/login",
+  },
+  {
+    img: "https://s3-symbol-logo.tradingview.com/bank-pembangunan-daerah-jawa-barat-dan-banten-tbk--600.png",
+    description: "NEW LMS BANK BJB SEGEMEN UMKM",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://ifoxsoft.com/wp-content/uploads/2022/09/Logo-Satpol-PP-Vector-IfoxSoft-1024x768.webp",
+    description: "WEBSITE SATPOL PP DKI JAKARTA",
+    link: "https://satpolpp.jakarta.go.id/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Institut_Teknologi_Telkom_Purwokerto_Versi_Vertikal.png",
+    description: "SISTEM KEUANGAN 'LARADUIT'",
     link: "#",
   },
 ];
@@ -118,12 +83,6 @@ const contactConfig = {
   YOUR_EMAIL: "ridhoakbarsyah15@gmail.com",
   YOUR_ADDRESS: "Central Java, Indonesia",
   description: "Feel free ask to me. Thanks❤️",
-
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  // YOUR_SERVICE_ID: "service_id",
-  // YOUR_TEMPLATE_ID: "template_id",
-  // YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {

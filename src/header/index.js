@@ -65,7 +65,7 @@ const Headermain = () => {
               <a href={socialprofils.github}>Github</a>
               <a href={socialprofils.instagram}>Instagram</a>
             </div>
-            <p className="copyright m-0">copyright __ {logotext}</p>
+            <p className="copyright m-0">copyright @2023__ {logotext}</p>
           </div>
         </div>
       </header>
