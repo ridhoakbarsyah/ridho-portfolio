@@ -1,6 +1,6 @@
 const logotext = "R I D H O - P A G E S";
 const meta = {
-  title: "Ridho Akbarsyah",
+  title: "Ridho Akbarsyah Ramadhan",
   description: "I’m Ridho Akbarsyah Ramadhan",
 };
 
@@ -11,7 +11,7 @@ const introdata = {
     second: "Lives in Central Java, Indonesia",
   },
   description: "Currently working in Central Java, Indonesia",
-  your_img_url: "https://images.unsplash.com/photo-1599837487527-e009248aa71b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  your_img_url: "https://media.licdn.com/dms/image/C5603AQHww_UY2ZauEA/profile-displayphoto-shrink_800_800/0/1662538568312?e=2147483647&v=beta&t=w1ROCtcKrQ3W4izQNbDWFBl0sSyA-EaDanOB5v2sx6A",
 };
 
 const dataabout = {
@@ -23,12 +23,12 @@ const dataabout = {
 const worktimeline = [
   {
     jobtitle: "Frontend Developer",
-    where: "Purwokerto, Central Java - Indonesia",
+    where: "PT. Tristar Surya Gemilang",
     date: "January 2023 - Present",
   },
   {
     jobtitle: "Frontend Developer Intern",
-    where: "Purwokerto, Central Java - Indonesia",
+    where: "CV. Bahira Studio Purwokerto",
     date: "July 2023 - September 2023",
   },
 ];
